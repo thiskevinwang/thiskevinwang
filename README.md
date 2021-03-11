@@ -2,7 +2,7 @@
 ### SWE.🔥
 ### Soft.💩
 
-![](https://thekevinwang.com/api/svg?id=thekevinwang)
+![Profile Views](https://thekevinwang.com/api/svg?id=thekevinwang)
 
 https://thekevinwang.com
 

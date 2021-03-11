@@ -1,6 +1,4 @@
-### Keep.✨
-### SWE.🔥
-### Soft.💩
+### Keep.✨ SWE.🔥 Soft.💩
 
 <img src="https://thekevinwang.com/api/svg?id=thekevinwang" />
 

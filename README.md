@@ -6,4 +6,4 @@ Somewhere in the fray, I taught myself programming (If you want to hear more, we
 
 I work across the stack — frontends, CI/CD automation, backend API’s, persistence layers — but I have a particular interest in cloud platforms and tools of that nature.
 
-Here is [my little corner of the internet](https://thekevinwang.com/wiki/)
+Here is [my little corner of the internet](https://thekevinwang.com)

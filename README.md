@@ -11,6 +11,8 @@ Here is [my little corner of the internet](https://thekevinwang.com)
 > [!IMPORTANT]
 > Side quests
 
+- [x] Build a GitHub App
+- [ ] Build a Slack App
 - [x] OpenAI + vector DB; Similarity search + document citation
 - [ ] Traefix + Nomad
 - [ ] HCL to AST, via https://github.com/syntax-tree/unist

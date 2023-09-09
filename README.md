@@ -9,7 +9,8 @@ I work across the stack — frontends, CI/CD automation, backend API’s, persis
 Here is [my little corner of the internet](https://thekevinwang.com)
  -->
 > [!IMPORTANT]
-> 🙄
+> Side quests
 
+- [x] OpenAI + vector DB; Similarity search + document citation
 - [ ] Traefix + Nomad
 - [ ] HCL to AST, via https://github.com/syntax-tree/unist

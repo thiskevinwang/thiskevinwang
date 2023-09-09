@@ -11,4 +11,5 @@ Here is [my little corner of the internet](https://thekevinwang.com)
 > [!IMPORTANT]
 > 🙄
 
-- [ ] asdasd
+- [ ] Traefix + Nomad
+- [ ] HCL to AST, via https://github.com/syntax-tree/unist

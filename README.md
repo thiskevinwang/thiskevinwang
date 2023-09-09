@@ -11,8 +11,11 @@ Here is [my little corner of the internet](https://thekevinwang.com)
 > [!IMPORTANT]
 > Side quests
 
+- [x] Component library (?)
 - [x] Build a GitHub App
 - [ ] Build a Slack App
+- [x] Waypoint core contributor ([Ref 1](https://thekevinwang.com/waypoint), [Ref 2](https://github.com/hashicorp/waypoint/pulls?q=is%3Apr+author%3Athiskevinwang))
+- [x] Web assembly in Docker
 - [x] OpenAI + vector DB; Similarity search + document citation
 - [ ] Traefix + Nomad
 - [ ] HCL to AST, via https://github.com/syntax-tree/unist

@@ -11,7 +11,7 @@ Here is [my little corner of the internet](https://thekevinwang.com)
 > [!IMPORTANT]
 > :trollface:
 
-- [x] Component library (?)
+- [x] Component library (? [Ref](https://nextjs-components-thekevinwang.vercel.app/design/introduction) ?)
 - [x] Build a GitHub App
 - [ ] Build a Slack App
 - [x] Mermaid.js in a Lambda function: [Ref](https://mermaid.thekevinwang.com/generate?theme=dark&input=Z2FudHQKICAgIHRpdGxlIE15IE11c2ljIExpZmUKICAgIGRhdGVGb3JtYXQgIFlZWVktTU0tREQKICAgIHNlY3Rpb24gQ2xhc3NpY2FsCiAgICBQaWFubyAgICAgICAgICAgOjE5OTYtMDEtMDEsIDIwMDUtMDEtMDEKICAgIHNlY3Rpb24gSmF6egogICAgR3VpdGFyICAgICAgICAgIDoyMDA3LTAxLTAxLCAyMDE0LTEyLTE0CiAgICBUaGUgTmV3IFNjaG9vbCAgOjIwMDktMDEtMDEsIDIwMTQtMTItMTQK)

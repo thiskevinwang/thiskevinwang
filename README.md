@@ -24,6 +24,8 @@ Here is [my little corner of the internet](https://thekevinwang.com)
 >   - [ ] Traefix + Nomad; Spin up & tear down n-number publicly available containers on a whim
 >   - [ ] HCL to AST, via https://github.com/syntax-tree/unist
 >   - [ ] Build a task queue system, like [Waypoint's](https://github.com/hashicorp/waypoint/blob/main/ARCHITECTURE.md#job-system)
+>   - [x] Spin up multiple database with unique URLs on the fly. [9/24/2023](https://thekevinwang.com/2023/09/24/infinite-dbs-with-nomad)
+>   - [ ] eBPF/Wireguard IPv6 mesh (what? [ref1](https://blog.railway.app/p/railway-v2#:~:text=eBPF/Wireguard%20IPv6%20mesh), [ref2](https://fly.io/blog/ipv6-wireguard-peering/), [ref3](https://news.ycombinator.com/item?id=25513828)) 
 > </details>
 
 <!--  - <img src="https://mermaid.thekevinwang.com/generate?theme=dark&input=Z2FudHQKICAgIHRpdGxlIE15IE11c2ljIExpZmUKICAgIGRhdGVGb3JtYXQgIFlZWVktTU0tREQKICAgIHNlY3Rpb24gQ2xhc3NpY2FsCiAgICBQaWFubyAgICAgICAgICAgOjE5OTYtMDEtMDEsIDIwMDUtMDEtMDEKICAgIHNlY3Rpb24gSmF6egogICAgR3VpdGFyICAgICAgICAgIDoyMDA3LTAxLTAxLCAyMDE0LTEyLTE0CiAgICBUaGUgTmV3IFNjaG9vbCAgOjIwMDktMDEtMDEsIDIwMTQtMTItMTQK" /> -->

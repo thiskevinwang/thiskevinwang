@@ -21,7 +21,6 @@ Here is [my little corner of the internet](https://thekevinwang.com)
 >   - [x] 📺 Tech Talk: [Zero to Serverless URL in 60 seconds with Waypoint](https://www.youtube.com/watch?v=lbokrymoz4g)
 >   - [x] Web assembly in Docker
 >   - [x] OpenAI + vector DB; Similarity search + document citation
->   - [ ] Traefix + Nomad; Spin up & tear down n-number publicly available containers on a whim
 >   - [ ] HCL to AST, via https://github.com/syntax-tree/unist
 >   - [ ] Build a task queue system, like [Waypoint's](https://github.com/hashicorp/waypoint/blob/main/ARCHITECTURE.md#job-system)
 >   - [x] Spin up multiple database with unique URLs on the fly. [9/24/2023](https://thekevinwang.com/2023/09/24/infinite-dbs-with-nomad)

@@ -6,7 +6,7 @@ I feel most at-home working on backend/edge/cloud _"turf"_, and reach for simple
 
 ## Current
 
-Senior Engineer at [**Clerk**](https://clerk.com), working on problems that primarly with our backend and edge, with bits of frontend.
+I’m a Senior Engineer at [**Clerk**](https://clerk.com), working on problems that span our entire stack, with a focus on our backend and edge surface areas.
 
 ## Previously
 

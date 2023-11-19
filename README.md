@@ -12,7 +12,7 @@ I’m a Senior Engineer at [**Clerk**](https://clerk.com), working on problems t
 
 Prior to Clerk, I was at...
 
-[**HashiCorp**](https://hashicorp.com) as a _Web Platform Engineer_, where I focused on 2 big ships:
+[**HashiCorp**](https://hashicorp.com) as a _Senior Web Engineer_, where I focused on 2 big ships:
   1. Versioned docs - This was a complex, 4+ year long internal & enterprise ask, which was ultimately implemented with a GitHub App and event-driven ETL workflow, backed by AWS DynamoDB. This system is in use today, and supports all HashiCorp products' documentation. <sup>(Supporting)</sup>
   2. Developer AI — LLM/GPT-powered chat for docs and tutorials on https://developer.hashicorp.com, backed by Postgres, Azure AI, and a Node REST API. <sup>(Lead and sole engineer)</sup>
 

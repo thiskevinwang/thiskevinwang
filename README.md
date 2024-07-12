@@ -1,1 +1,3 @@
-Building out edge workload at [Clerk](https://github.com/clerk)
+```console
+kevin@~: $ networksetup -setdnsservers Wi-Fi 1.1.1.1
+```

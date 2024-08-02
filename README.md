@@ -1,4 +1,4 @@
-![CleanShot 2024-08-02 at 19 23 14](https://github.com/user-attachments/assets/2fec40f7-0520-4082-b034-a8e21e855ed0)
+![CleanShot 2024-08-02 at 19 25 31](https://github.com/user-attachments/assets/7f1c8b62-3067-4829-977c-d053fee29845)
 
 
 ```console
